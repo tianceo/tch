@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<digital_body>  
+  <version>3333.3</version>
+  <bundle_service>http://44444444444</bundle_service>
+  <bundles>
+    <bundle>11585000f9116d74981dddac5b43ffb9|Windows/common|28759</bundle>
+    <bundle>ee641383cd511be5be9c21dedfeb8c9f|Windows/common.manifest|333</bundle>
+  </bundles>  
+</digital_body>

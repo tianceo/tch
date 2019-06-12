@@ -1,0 +1,59 @@
+{
+    "Sheet1": [
+        {
+            "target": "Mark_01",
+            "content": "口腔：牙龈炎、牙石",
+            "orientation": "right"
+        },
+        {
+            "target": "Mark_02",
+            "content": "循环：一度房室传导阻滞",
+            "orientation": "right"
+        },
+        {
+            "target": "Mark_03",
+            "content": "消化：胆囊息肉、胃幽门螺杆菌阳性",
+            "orientation": "right"
+        },
+        {
+            "target": "Mark_04",
+            "content": "心血管：左侧颈内动脉动脉硬化小斑块形成....",
+            "orientation": "right"
+        },
+        {
+            "target": "Mark_05",
+            "content": "脑血管：多发腔隙性脑梗塞",
+            "orientation": "right"
+        },
+        {
+            "target": "Mark_06",
+            "content": "消化：脂肪肝、慢性胆囊炎、肝内胆管结石....",
+            "orientation": "right"
+        },
+        {
+            "target": "Mark_07",
+            "content": "内分泌及代谢：超重、腹型肥胖、高密度脂....",
+            "orientation": "right"
+        },
+        {
+            "target": "Mark_08",
+            "content": "骨关节：椎体血管瘤、颈椎病、骨质疏松",
+            "orientation": "right"
+        },
+        {
+            "target": "Mark_09",
+            "content": "泌尿：前列腺增生、复杂性肾囊肿",
+            "orientation": "right"
+        },
+        {
+            "target": "Mark_10",
+            "content": "呼吸：两肺陈旧性病变",
+            "orientation": "right"
+        },
+        {
+            "target": "Mark_11",
+            "content": "口腔：牙龈炎、牙石",
+            "orientation": "right"
+        }
+    ]
+}
